@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    driverClassName: org.mariadb.jdbc.Driver
+    url: ${DATABASE_URL}
+    username: ${DATABASE_USER}
+    password: ${DATABASE_PASS}
+
+  jpa:
+    properties:
+      hibernate:
+        generate_statistics: false
+        order_inserts: true
+        jdbc.batch_size: 100
+    show-sql: false
+    database-platform: org.hibernate.dialect.MariaDBDialect
+    hibernate:
+      ddl-auto: validate
+
+logging:
+  level:
+    ROOT: INFO
+  thresholds:
+    console: INFO
+    file: INFO
+  patterns:
+    console: '%d{yyyy-MM-dd HH:mm:ss} - %msg%n'
+    file: '%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%'
+  file:
+    path: ./logs/
