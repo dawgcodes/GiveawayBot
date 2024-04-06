@@ -1,0 +1,6 @@
+version: '3.9'
+
+services:
+  giveaway:
+    image: megoru/giveaway
+    restart: always
