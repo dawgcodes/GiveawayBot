@@ -1,5 +1,5 @@
 # GiveawayBot
-[![CI/CD](https://github.com/dawgcodes/GiveawayBot/actions/workflows/ci_cd.yml/badge.svg?branch=main)](https://github.com/dawgcodes/GiveawayBot/actions/workflows/ci_cd.yml)
+[![CI/CD](https://giveaways.twodawg.xyz/images/black%20ops%20III.png)](https://github.com/dawgcodes/GiveawayBot/actions/workflows/ci_cd.yml)
 [![Discord](https://img.shields.io/discord/779317239722672128?label=Discord)](https://giveaways.zozo82897.lol/)
 [![Add](https://img.shields.io/badge/invite-Giveaway-blue?logo=discord)](https://giveaways.zozo82897.lol/)
 [![top](https://img.shields.io/badge/TOP.GG-pink?logo=discord)](https://giveaways.zozo82897.lol/) [![Discord Bots](https://top.gg/api/widget/servers/.svg)](https://giveaways.zozo82897.lol/)
