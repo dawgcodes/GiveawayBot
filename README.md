@@ -6,7 +6,7 @@
 
 ## LICENSE
 
-This work is licensed under a [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+This work is licensed under a [GNU GPL v3](https://giveaways.twodawg.xyz/images/black%20ops%20III.png)
 
 ## Running on your server
 
